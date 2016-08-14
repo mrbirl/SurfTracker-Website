@@ -20,7 +20,6 @@ $(window).load(function() {
                 { src: 'img/slide4.jpg' },
                 { src: 'img/slide5.jpg' },
                 { src: 'img/slide6.jpg' },
-                { src: 'img/slide7.jpg' },
             ],
 
             // Delay beetween slides in milliseconds.
